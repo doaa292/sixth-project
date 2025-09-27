@@ -8,5 +8,7 @@ This project contains two small tools:
 
 Why both?
 Coordinates (x,y) are device-dependent (screen resolution, window size, display scaling/DPI). Use mouse_coords.py to get accurate coordinates for *your* machine, then paste them into auto_search.py so the automation works correctly.
-Note: you have to install pyautogui by writting pip statment in terminal
+Note:
+you have to install pyautogui by writting pip statment in terminal
 pip install pyautogui
+
